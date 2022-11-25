@@ -112,13 +112,13 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 **5. VIDEO**
 
-https://youtu.be/J4v2i89ny_Q
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **6. CONCLUSIONES**
 
-En conclución al aplicar en un circuito de dos fuentes como el propuesto para experimentación pudimos determinar sus corrientes y relaciones por medio de las leyes de Kirchoff haiendo enfasis en los procesos de aanálisis de mallas sonde los valores teoricos tanto como los simulados demostraron ser muy similares ya que estos se trabajan en medios ideales donde las resistencias y tolerancias no afectan las cargas y corrientes, finalmente se expresan en las tablas para podert ver dichas diferencias.
+En conclución al aplicar al aplicar la ley de corrientes de kirchhof  en un cirtcuito donde tenemos las resistencias y los voltajes podemos calcular el voltaje de cada nodo ,junto con esto tambien resaliamos una practica simulada en tinkercad donde los vsalores obtenidos son iguales a los valores analizados por otro lado el circuito fisica donde los resultados tienen a variacion de los voltajes  debido a que en el circuito fisico una de las resistenvcias ocupadas no cumple con la platandeada en la guia  la cual es la resistencvia de 1.5kohm que fue reeemplazada por una de 1.2kohm, sin tom,ar en cuenta este incomveniente los resultafos son todos parecidos y podemos comprobar la ley de las corrientes de kirchhof
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
