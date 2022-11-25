@@ -79,26 +79,26 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 * 3.2 DIAGRMA EN TINKERCAD
 
+![image](https://user-images.githubusercontent.com/116772918/203894129-510fd39a-4e93-4828-8116-0c06e5964faa.png)
 
-![image](https://user-images.githubusercontent.com/116772918/203877143-239a65ac-4e40-4c3a-9fed-ba6a52432011.png)
-
-
-![image](https://user-images.githubusercontent.com/116772918/203884328-8a728625-b2e7-48c7-8a4d-bc14c950f3f9.png)
+![image](https://user-images.githubusercontent.com/116772918/203894188-ff9b229e-dbca-4558-b732-a2e4d0ebda7d.png)
 
 
+![image](https://user-images.githubusercontent.com/116772918/203894080-94cd6ed6-e203-4b48-85d8-830586b53f2b.png)
 
-![image](https://user-images.githubusercontent.com/116772918/202614811-d14c20a9-e0e3-4e5a-8bad-1e2cc07a6976.png)
 
-![image](https://user-images.githubusercontent.com/116772918/202614885-1ff5a5ad-a162-4107-a27d-a1f64ea74aeb.png)
+![image](https://user-images.githubusercontent.com/116772918/203896038-e303b6ad-9608-40c0-843d-c269f4ac42a6.png)
 
-![image](https://user-images.githubusercontent.com/116772918/202614944-5aaacd9f-06ca-4352-bd68-8c01ad42de76.png)
+![image](https://user-images.githubusercontent.com/116772918/203896062-4cc972f8-4f3d-4173-98ce-0aa498e47b93.png)
 
+![image](https://user-images.githubusercontent.com/116772918/203896085-578c6e20-5796-4309-924f-1c7b511a97f6.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 **4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-![image](https://user-images.githubusercontent.com/116772918/202616895-f570a230-bf78-48d0-a333-63e0a5b274f0.png)
+!![image](https://user-images.githubusercontent.com/116772918/203894269-5b652f31-71be-4752-aec1-8b764642eec1.png)
+
 
 
 * 4.1 PRIMERA TABLA  
