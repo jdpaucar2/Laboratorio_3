@@ -36,11 +36,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
 
-* 2.1 Ley de Kirchhoff: Análisis de mallas.
- 
-Para entender mejor el analisis de mallas primero debemos enfocarnos en las bases de esta que son las  leyes de kricfchof, como ya concocemos las  leyes  de kirchhoff son:
 
-* 2.2 Ley de corrientes de Kirchhoff
+* 2.1 Ley de corrientes de Kirchhoff
 
 la ley de corriente de Kirchhoff explica que la carga total se conserva, se deduce que la corriente total que entra a la unión de dos o más ramas de un circuito es igual a la corriente que sale de la misma.
 
@@ -49,7 +46,7 @@ la ley de corriente de Kirchhoff explica que la carga total se conserva, se dedu
 
 En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma delas corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por elnodo es igual a cero
 
-* 2.3 Ley de voltaje de Kirchhoff
+* 2.2 Ley de voltaje de Kirchhoff
 
 La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de conservación de la energía, lo cual implica que La suma algebraica de las caídas de voltaje dentro de una trayectoria cerrada, o dentro de un lazo, es igual a cero.
 
@@ -69,7 +66,6 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 ![image](https://user-images.githubusercontent.com/116772918/203876141-19e248bb-5a94-490f-a4c6-9f6823c88a15.png)
 
-![image](https://user-images.githubusercontent.com/116772918/203876177-72a16f41-c55c-4be8-ac77-f2713609f220.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
