@@ -55,24 +55,21 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-![image](https://user-images.githubusercontent.com/116772918/202568550-4645df1d-692c-417f-bc0c-e14834c34ec8.png)
-
+![image](https://user-images.githubusercontent.com/116772918/203876038-5bd3ce52-8472-4272-9f22-c8159f7a1b10.png)
 
 
-![image](https://user-images.githubusercontent.com/116772918/202568749-766924f3-6080-4b8f-89de-3b264ecd8147.png)
+![image](https://user-images.githubusercontent.com/116772918/203876076-2118baa5-eecc-4408-941c-8fdbd3bad562.png)
 
-![image](https://user-images.githubusercontent.com/116772918/202568855-29e0da34-704b-4992-87d1-8ba483e4c1f8.png)
-
-![image](https://user-images.githubusercontent.com/116772918/202568906-31375a8e-cd00-49e9-b5f5-7e8d42c33dcc.png)
-
-![image](https://user-images.githubusercontent.com/116772918/202568973-bf75c7b2-b8c4-48d8-bc2f-60fe0263fd1e.png)
+![image](https://user-images.githubusercontent.com/116772918/203876088-a652f26a-92b7-4bd2-a037-6e28f9bb9898.png)
 
 
+![image](https://user-images.githubusercontent.com/116772918/203876109-3cb2bcdf-f5ca-4e18-a666-b5b05237f5b4.png)
 
+![image](https://user-images.githubusercontent.com/116772918/203876125-4c279e5f-25a4-4860-985e-25fa122e61f8.png)
 
+![image](https://user-images.githubusercontent.com/116772918/203876141-19e248bb-5a94-490f-a4c6-9f6823c88a15.png)
 
-
+![image](https://user-images.githubusercontent.com/116772918/203876177-72a16f41-c55c-4be8-ac77-f2713609f220.png)
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -80,7 +77,7 @@ La ley de voltaje de Kirchhoff o segunda ley está basada en el principio de con
 
 * 3.1 MATERIALES DE LA PRACTICA
 
-![image](https://user-images.githubusercontent.com/116772918/202551314-204f9790-1ca2-42fe-9f39-898766234dc7.png)
+![image](https://user-images.githubusercontent.com/116772918/203876212-03dfefaa-73b5-45dd-a6b6-357162651c8d.png))
 
 
 * 3.2 PROCEDIMIENTO
